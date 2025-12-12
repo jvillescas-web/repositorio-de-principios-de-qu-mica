@@ -10,9 +10,6 @@ Aquí están los apuntes del taller, con temas como definiciones de entropía, s
 - Segunda ley de la termodinámica
 - Entropía del universo
 
-## Estructura del repositorio:
-- documentos/: Para apuntes y textos
-
 ## Creado por:
 Johhan Santiago Villescas Rua Correo: jvillescas@unal.edu.co
 Jhonny Alejandro Isaza Salazar Correo: jhisazas@unal.edu.co
