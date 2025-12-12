@@ -8,6 +8,7 @@ Aquí están los apuntes del taller, con temas como definiciones de entropía, s
 - Distribución de microestados
 - Calidad de la información
 - Segunda ley de la termodinámica
+- dimensionalidad de la información
 - Entropía del universo
 
 ## Creado por:
